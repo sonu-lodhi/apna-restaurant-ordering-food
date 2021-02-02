@@ -1,0 +1,18 @@
+SMAP
+MessRegistration_jsp.java
+JSP
+*S JSP
+*F
++ 0 MessRegistration.jsp
+MessRegistration.jsp
++ 1 ViewProfile.jsp
+ViewProfile.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,7:51
+5#1,50:58
+11#0,45:107
+1#2,21:152
+55#0,3:173
+*E

@@ -1,0 +1,20 @@
+SMAP
+messlist_jsp.java
+JSP
+*S JSP
+*F
++ 0 messlist.jsp
+messlist.jsp
++ 1 footer.jsp
+footer.jsp
+*L
+1,67:53
+67,3:120
+70,2:123,3
+72,2:129
+74:131,3
+75,4:134
+78,8:138
+85,10:146
+1#1,21:155
+*E

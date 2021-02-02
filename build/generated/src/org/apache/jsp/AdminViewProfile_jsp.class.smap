@@ -1,0 +1,18 @@
+SMAP
+AdminViewProfile_jsp.java
+JSP
+*S JSP
+*F
++ 0 AdminViewProfile.jsp
+AdminViewProfile.jsp
++ 1 ViewProfile.jsp
+ViewProfile.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,7:51
+5#1,50:58
+11#0,26:107
+1#2,21:133
+36#0,3:154
+*E

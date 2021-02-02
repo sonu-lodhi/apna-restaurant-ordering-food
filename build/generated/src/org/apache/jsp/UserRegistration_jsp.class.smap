@@ -1,0 +1,14 @@
+SMAP
+UserRegistration_jsp.java
+JSP
+*S JSP
+*F
++ 0 UserRegistration.jsp
+UserRegistration.jsp
++ 1 footer.jsp
+footer.jsp
+*L
+5,107:49
+1#1,21:156
+111#0,3:177
+*E
